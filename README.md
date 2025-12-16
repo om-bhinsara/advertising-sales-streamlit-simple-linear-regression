@@ -96,18 +96,23 @@ A Streamlit app was built to:
 ---
 
 ## 📁 Project Structure
-advertising-sales-streamlit
+advertising-sales-streamlit-simple-linear-regression
 ├── data
 │   └── Advertising.csv
+│
 ├── notebooks
 │   └── advertising_sales_analysis.ipynb
+│
 ├── app
 │   └── app.py
+│
 ├── model
 │   └── linear_regression.pkl
+│
 ├── train_model.py
 ├── requirements.txt
 └── README.md
+
 
 ---
 
@@ -119,7 +124,7 @@ advertising-sales-streamlit
 - scikit-learn
 - Matplotlib
 - Streamlit
-- 
+ 
 ---
 
 ## ✅ Key Learnings
@@ -129,6 +134,3 @@ advertising-sales-streamlit
 - Visualizations are essential for understanding model behavior
 - Simple models can be powerful when assumptions are satisfied
 - End-to-end ML projects include deployment, not just training
-
-
-⭐ If you find this project helpful, feel free to star the repository!
