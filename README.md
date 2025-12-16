@@ -97,7 +97,7 @@ A Streamlit app was built to:
 
 📁 Project Structure
 
-📦 advertising-sales-streamlit-simple-linear-regression
+📦 **advertising-sales-streamlit-simple-linear-regression**
 ┣ 📂 data
 ┃ ┗ 📄 Advertising.csv
 ┣ 📂 notebooks
