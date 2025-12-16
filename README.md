@@ -93,26 +93,22 @@ A Streamlit app was built to:
 - Visualize the regression line and prediction point
 - Explain how the model works in simple terms
 
----
+---   
 
-## 📁 Project Structure
-advertising-sales-streamlit-simple-linear-regression
-├── data
-│   └── Advertising.csv
-│
-├── notebooks
-│   └── advertising_sales_analysis.ipynb
-│
-├── app
-│   └── app.py
-│
-├── model
-│   └── linear_regression.pkl
-│
-├── train_model.py
-├── requirements.txt
-└── README.md
+📁 Project Structure
 
+📦 advertising-sales-streamlit-simple-linear-regression
+┣ 📂 data
+┃ ┗ 📄 Advertising.csv
+┣ 📂 notebooks
+┃ ┗ 📄 advertising_sales_analysis.ipynb
+┣ 📂 app
+┃ ┗ 📄 app.py
+┣ 📂 model
+┃ ┗ 📄 linear_regression.pkl
+┣ 📄 train_model.py
+┣ 📄 requirements.txt
+┗ 📄 README.md
 
 ---
 
