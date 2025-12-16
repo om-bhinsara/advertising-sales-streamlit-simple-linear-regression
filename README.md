@@ -109,6 +109,14 @@ A Streamlit app was built to:
  ┣ 📄 requirements.txt
  ┗ 📄 README.md
 
+
+ ## 📁 Project Structure
+📦 **student-performance-analysis**  
+ ┣ 📂 data  
+ ┣ 📂 notebooks  
+ ┣ 📄 README.md  
+ ┗ 📄 requirements.txt  
+
 ---
 
 ## 🛠️ Technologies Used
