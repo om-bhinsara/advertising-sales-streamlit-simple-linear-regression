@@ -96,26 +96,18 @@ A Streamlit app was built to:
 ---   
 
 ## 📁 Project Structure
-📦 **advertising-sales-streamlit-simple-linear-regression**
- ┣ 📂 data
- ┃ ┗ 📄 Advertising.csv
- ┣ 📂 notebooks
- ┃ ┗ 📄 advertising_sales_analysis.ipynb
- ┣ 📂 app
- ┃ ┗ 📄 app.py
- ┣ 📂 model
- ┃ ┗ 📄 linear_regression.pkl
- ┣ 📄 train_model.py
- ┣ 📄 requirements.txt
- ┗ 📄 README.md
-
-
- ## 📁 Project Structure
-📦 **student-performance-analysis**  
- ┣ 📂 data  
- ┣ 📂 notebooks  
- ┣ 📄 README.md  
- ┗ 📄 requirements.txt  
+📦 **advertising-sales-streamlit-simple-linear-regression**  
+┣ 📂 data  
+┃ ┗ 📄 Advertising.csv  
+┣ 📂 notebooks  
+┃ ┗ 📄 advertising_sales_analysis.ipynb  
+┣ 📂 app  
+┃ ┗ 📄 app.py  
+┣ 📂 model  
+┃ ┗ 📄 linear_regression.pkl  
+┣ 📄 train_model.py  
+┣ 📄 requirements.txt  
+┗ 📄 README.md  
 
 ---
 
